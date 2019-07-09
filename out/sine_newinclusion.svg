@@ -1,0 +1,27 @@
+<?xml version='1.0' standalone='no'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg width='880px' height='880px' xmlns='http://www.w3.org/2000/svg'>
+<rect fill='white' stroke='none' x='0' y='0' width='880' height='880'/>
+<polygon fill='cornflowerblue' stroke='black' points='825.020314,179.052501 825.020314,110.000000 880.000001,69.052501 880.000001,138.105001 ' fill-opacity='0.5'/>
+<polygon fill='cornflowerblue' stroke='black' points='266.478302,163.790001 486.397046,0.000001 880.000001,0.000001 660.081256,163.790001 ' fill-opacity='0.5'/>
+<polygon fill='cornflowerblue' stroke='black' points='440.162512,603.790001 440.162512,465.685001 660.081256,301.895001 660.081256,440.000001 ' fill-opacity='0.5'/>
+<polygon fill='cornflowerblue' stroke='black' points='825.020314,110.000000 825.020314,75.473750 880.000001,34.526251 880.000001,69.052500 ' fill-opacity='0.5'/>
+<polygon fill='cornflowerblue' stroke='black' points='852.510157,37.736875 852.510157,20.473750 866.255079,10.236875 866.255079,27.500000 ' fill-opacity='0.5'/>
+<polygon fill='cornflowerblue' stroke='black' points='770.040628,220.000000 770.040628,150.947500 825.020314,110.000000 825.020314,179.052501 ' fill-opacity='0.5'/>
+<polygon fill='cornflowerblue' stroke='black' points='660.081256,440.000001 660.081256,301.895001 770.040628,220.000001 770.040628,358.105001 ' fill-opacity='0.5'/>
+<polygon fill='cornflowerblue' stroke='black' points='46.559557,741.895000 46.559557,603.790001 440.162512,603.790001 440.162512,741.895000 ' fill-opacity='0.5'/>
+<polygon fill='cornflowerblue' stroke='black' points='770.040628,150.947500 770.040628,81.895000 825.020314,40.947500 825.020314,110.000000 ' fill-opacity='0.5'/>
+<polygon fill='cornflowerblue' stroke='black' points='440.162512,465.685001 440.162512,327.580001 550.121884,245.685001 550.121884,383.790001 ' fill-opacity='0.5'/>
+<polygon fill='cornflowerblue' stroke='black' points='46.559557,880.000000 46.559557,741.895000 440.162512,741.895000 440.162512,880.000000 ' fill-opacity='0.5'/>
+<polygon fill='cornflowerblue' stroke='black' points='770.040628,289.052501 770.040628,220.000001 880.000001,138.105001 880.000001,207.157501 ' fill-opacity='0.5'/>
+<polygon fill='cornflowerblue' stroke='black' points='0.000001,880.000000 0.000001,741.895000 46.559557,741.895000 46.559557,880.000000 ' fill-opacity='0.5'/>
+<polygon fill='cornflowerblue' stroke='black' points='46.559557,327.580001 266.478302,163.790001 660.081256,163.790001 440.162512,327.580001 ' fill-opacity='0.5'/>
+<polygon fill='cornflowerblue' stroke='black' points='0.000001,880.000000 46.559557,880.000000 393.602955,880.000000 440.162512,880.000000 ' fill-opacity='0.5'/>
+<polygon fill='cornflowerblue' stroke='black' points='660.081256,301.895000 660.081256,232.842501 770.040628,150.947501 770.040628,220.000000 ' fill-opacity='0.5'/>
+<polygon fill='cornflowerblue' stroke='black' points='825.020314,75.473750 825.020314,40.947500 852.510157,20.473750 852.510157,55.000000 ' fill-opacity='0.5'/>
+<polygon fill='cornflowerblue' stroke='black' points='46.559557,603.790001 46.559557,327.580001 440.162512,327.580001 440.162512,603.790001 ' fill-opacity='0.5'/>
+<polygon fill='cornflowerblue' stroke='black' points='550.121884,383.790001 550.121884,314.737501 660.081256,232.842501 660.081256,301.895001 ' fill-opacity='0.5'/>
+<polygon fill='cornflowerblue' stroke='black' points='852.510157,55.000000 852.510157,37.736875 880.000001,17.263125 880.000001,34.526250 ' fill-opacity='0.5'/>
+<polygon fill='cornflowerblue' stroke='black' points='0.000001,741.895000 0.000001,603.790001 46.559557,603.790001 46.559557,741.895000 ' fill-opacity='0.5'/>
+<polygon fill='none' stroke='darkblue' points='440.000000,785.575192 440.000000,94.424809 ' stroke-dasharray='1'/>
+</svg>
