@@ -1,6 +1,10 @@
-NOTES (Antoine Miné, Paris, 15 Septembre 2014)
+NOTES 
 -----
+Original version-Antoine Miné, Paris, 15 Septembre 2014
 
+Miné, A., Breck, J., & Reps, T. (2016, April). An algorithm inspired by constraint solvers to infer inductive invariants in numeric programs. In European Symposium on Programming (pp. 560-588). Springer, Berlin, Heidelberg.
+
+Second version- Bibek KABI, Palaiseau, September 2017
 
 1) Context
 
@@ -15,9 +19,10 @@ The prototype is written in OCaml.
 2) Prerequisites
 
 - OCaml: http://ocaml.org
-  (tested with OCaml 4.02, but should work on earlier versions)
+  (tested with OCaml 4.02 and 4.05 but should work on earlier versions)
 
 - Apron: http://apron.cri.ensmp.fr/library
+  (Please follow the document "Pointers_apron.pdf" for installing Apron)  
 
 - ZArith: https://forge.ocamlcore.org/projects/zarith
   (tested with the SVN version, but should work on earlier releases)
@@ -28,7 +33,10 @@ The prototype is written in OCaml.
 - an SVG viewer (for the graphical output)
   (your browser can probably do it)
 
-Tested on a 64-bit Linux intel Dell laptop (Gentoo distribution).
+Tested on:
+
+1. 64-bit Linux intel Dell laptop (Gentoo distribution) 
+2. 64-bit Linux Intel(R) Core(TM) i7-4710MQ CPU HP ZBook 17 G2 (G6Z41AV) laptop 
 
 
 3) Compilation
