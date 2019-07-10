@@ -58,7 +58,7 @@ One can install Apron through OPAM package manager or via the source files. In o
 \end{itemize}
 
 \section{Taylor1plus}
-Taylor1+ is an efficient implementation of the affine forms-based numerical abstract domain or zontopes in Apron \cite{taylor1}. The affine forms-based numerical abstract domain was introduced by Eric Goubault and Sylvie Putot in \cite{affineabstract}. Taylor1+ defines the meet and join operation of two affine sets as a logical product of standard zonotopes and boxes \cite{meet}. It also implements test for inclusion check, test for intersection check and splitting operation for zonotopes \cite{split}. The domain requires the APRON library wrappers to work properly. \\
+Taylor1+ is an efficient implementation of the affine forms-based numerical abstract domain or zontopes in Apron \cite{taylor1}. The affine forms-based numerical abstract domain was introduced by Eric Goubault and Sylvie Putot in \cite{affineabstract}. Taylor1+ defines the meet operation of two affine sets as a logical product of standard zonotopes and boxes \cite{meet}. It implements several join operations over such logical products. It also implements test for inclusion check, test for intersection check and splitting operation for zonotopes \cite{split}. The domain requires the APRON library wrappers to work properly. \\
 \indent Inside the directory of Taylor1plus there are few test files like ``t1p\_test\_eval\_texp.c''. If someone wants to test the file or use it for his/her own purpose, first one should uncomment the line in the makefile of Taylor1plus saying:
 \begin{verbatim}
 test%: t1p_test_eval_texp%.o 
