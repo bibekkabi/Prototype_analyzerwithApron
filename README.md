@@ -30,6 +30,6 @@ The details about them can be found in: https://github.com/bibekkabi/taylor1plus
 
 [2] Jeannet, B., & Miné, A. (2009, June). Apron: A library of numerical abstract domains for static analysis. In International Conference on Computer Aided Verification (pp. 661-667). Springer, Berlin, Heidelberg.
 
-[3] Ghorbal, K., Goubault, E., & Putot, S. (2009, June). The zonotope abstract domain taylor1+. In International Conference on Computer Aided Verification (pp. 627-633). Springer, Berlin, Heidelberg.
+[3] Ghorbal, K., Goubault, E., & Putot, S. (2009, June). The zonotope abstract domain taylor1+. In International Conference on Computer Aided Verification (pp. 627-633). Springer, Berlin, Heidelberg. 
 
 [4] Kabi, B. (to be submitted). Synthesizing invariants: a constraint programming approach based on zonotopic abstraction (Doctoral dissertation, Ecole Polytechnique X, Universite Paris Saclay).
